@@ -1,0 +1,132 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-image: url(https://mrbrownbakery.com/image/images/uBBnWCzSOceFRSFNp3wEvMSIhO3GfVyeMWPze41J.png?p=main_slider) ;
+    height: 39vh;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: 0vw;
+
+}
+
+
+.img{
+    display: flex;
+    font-size: 5vh;
+    align-items: center;
+    align-content: center;
+    place-content: end center;
+}
+.nav{
+    display: flex;
+    padding-top: 13vw;
+    padding-left: 4vw;
+}
+ul{
+    font-size: 5vh;
+    word-spacing: 4vw;
+}
+.navelements{
+    text-decoration: none;
+
+    }
+li{
+    display: inline;
+    font-weight: bold;
+}
+aside{
+    width: 10%;
+    margin-left: 2vw;
+    margin-top: 10vh;
+     padding-left: 1vw;
+    padding-top: 1vh;
+    background-color: rgb(240, 250, 252);
+    display: inline-block;
+    margin-right: 5vw;
+    border: 2px solid black;
+    position: fixed;
+
+}
+img[ src="/img/premixs.jpg"] {
+    width: 80vw;
+    height: 60vh;
+    padding-top: 10vh;
+    margin-left: 17vw;
+}
+footer{
+    background: linear-gradient(70deg, #acf9fa, #f2ee72);
+    height: 20vh;
+   
+    padding-top: 0vh;
+padding-left: 1vw;
+margin-top: 0vh;
+
+}
+.foot{
+    text-decoration: none;
+    color: black;
+    font-size: 33px;
+    word-spacing: 5px;
+    padding-right: 6vw;
+}
+.sh{
+    display: inline;
+    float: right;
+    font-size: 3vw;
+    padding-top: 0vh;
+    padding-right: 11vh;
+    height: 0vh;
+}
+.socialh{
+    margin: 0;
+    padding: 0;
+}
+.link{
+    display: inline;
+    padding-left: 14vw;
+    
+}
+.copyright{
+    padding-right: 0vw;
+    padding-bottom: 0vw;
+    font-size: 1vw;
+    padding-top: 5vw;
+    padding-left: 78vw;
+}
+.socialh{
+    padding-right: 3vw;
+}
+section{
+    border: 2px solid black;
+    margin-top: 2vh;
+    margin-left: 15vw;
+    margin-right: 9vw;
+    margin-bottom: 5vw;
+    background-color: #e8fcf7;
+}
+.op{
+padding-left: 15vw;
+padding-top: 1vw;
+padding-bottom: 0vh;
+font-size: 2vw;
+}
+.products{
+    display: inline-block;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-top: 13px;
+    margin-bottom: 15px;
+    background-color: white;
+    padding: 20px;
+}
+.productname{
+    padding-left: 3vw;
+}
+main{
+    /* background: linear-gradient(135deg, #45A29E, #C5C6C7); */
+    border: #bb13e6 dashed 2px;
+    background-color: #f0f0fc;
+}
